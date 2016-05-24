@@ -1,0 +1,20 @@
+# Super Simple Stock Market
+
+SimpleStockMarket Application Class UML Design.
+
+![simplestockmarket_uml]()
+
+# How to use:
+
+This is a maven project, can run using ..
+
+mvn test -> to execute the Junit tests.
+
+mvn package -> to generate the executable jar.
+
+To run the program just run:
+
+java -jar target/SimpleStockMarket-0.0.1-SNAPSHOT.jar
+
+
+
